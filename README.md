@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rusakge
+- 👋 Hi, I’m Egor Rusakov
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Test Automation based on Selenium WebDriver
 - 💞️ I’m looking to collaborate on REST API testing via Postman, 
